@@ -9,8 +9,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a0f768cf3929cc7489b2b41a112e519b, type: 3}
-  m_Name: Torch Recipe
+  m_Name: Torch_rcp
   m_EditorClassIdentifier: 
-  Component1: 
-  Component2: 
+  Requirements:
+  - Coal
+  - rcp
   Result: 

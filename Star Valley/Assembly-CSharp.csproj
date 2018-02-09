@@ -51,10 +51,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Components.cs" />
-     <Compile Include="Assets\Crafting_Crontroller.cs" />
-     <Compile Include="Assets\Inventory.cs" />
-     <Compile Include="Assets\RecipeCreator.cs" />
+     <Compile Include="Assets\Inventory_Controller.cs" />
+     <Compile Include="Assets\recipeCreator.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
